@@ -2,7 +2,7 @@
 -  I’m interested in Coding ig
 -  I’m currently learning <i>nothing</i>
 -  I’m looking for someone to share my <i>pain</i> with
--  Reach me <i>[asifuwu](http://t.me/asifuwu)</i>
+-  Reach me (https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg)  <i>[asifuwu](http://t.me/asifuwu)</i>
 
 <!---
 asifuwu/asifuwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
