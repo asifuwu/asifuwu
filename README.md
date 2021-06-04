@@ -11,6 +11,8 @@
     <img  align="left" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/github.svg" /> </a>   
    <a href="http://www.facebook.com/asifuwu">
     <img  align="left" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/facebook.svg" /> </a>    
+   <a href="https://anilist.co/user/asifUwU/">
+    <img  align="left" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/anilist.svg" /> </a>    
  
   
                                                        Progress
